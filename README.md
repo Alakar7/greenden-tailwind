@@ -4,7 +4,7 @@ Greenden is a simple and responsive plant store website built using **HTML** and
 
 ## 🔗 Live Demo
 
-You can view a live demo [here](#) (Replace with GitHub Pages or deployment link).
+You can view a live demo [https://alakar7.github.io/greenden-tailwind/](#) (Replace with GitHub Pages or deployment link).
 
 ## 📸 Screenshots
 
