@@ -11,7 +11,7 @@ You can view a live demo [here](#) (Replace with GitHub Pages or deployment link
 ![Screenshot (24)](https://github.com/user-attachments/assets/fafae178-9af3-4c00-b9ca-cd4d10a33ece)
 
 
-![Screenshot (23)](https://github.com/user-attachments/assets/9cc77d53-b205-46fe-af8a-86245d7ec873)
+
 
 
 ## 💡 Features
@@ -42,7 +42,8 @@ greenden/
 │   ├── bestseller_2.jpg
 │   ├── bestseller_3.png
 │   ├── bestseller_4.png
-📬 Contact
+
+## 📬 Contact
 For any questions or suggestions, feel free to reach out at [alakarsamy2014@gmail.com]
 
 © 2025 Greenden. All rights reserved.
