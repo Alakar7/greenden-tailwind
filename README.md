@@ -8,7 +8,8 @@ You can view a live demo [here](#) (Replace with GitHub Pages or deployment link
 
 ## 📸 Screenshots
 
-![screenshot](./images/header-image.jpeg) 
+![Screenshot (24)](https://github.com/user-attachments/assets/fafae178-9af3-4c00-b9ca-cd4d10a33ece)
+
 
 ![Screenshot (23)](https://github.com/user-attachments/assets/9cc77d53-b205-46fe-af8a-86245d7ec873)
 
